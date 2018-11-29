@@ -8,7 +8,7 @@
 	<h1>Hello World!</h1>
 	<p>This is my first PHP</p>
 	<form action="process.php" method="post">
-		<input name="name" type="text" placeholder="input name"><br>
+		<input name="name" type="text" placeholder="input name">
 		<input type="submit">
 	</form>	
 	
